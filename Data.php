@@ -1,0 +1,6 @@
+<?php
+class PM_PerfectMoney_Helper_Data extends Mage_Payment_Helper_Data
+{
+
+    
+}
